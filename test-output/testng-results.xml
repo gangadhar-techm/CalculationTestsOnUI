@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-09T22:41:20 IST" name="Default suite" finished-at="2025-06-09T22:42:14 IST" duration-ms="53697">
+    <groups>
+    </groups>
+    <test started-at="2025-06-09T22:41:20 IST" name="Default test" finished-at="2025-06-09T22:42:14 IST" duration-ms="53697">
+      <class name="testClasses.CalculationTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testClasses.CalculationTest@6e1d8f9e]" started-at="2025-06-09T22:41:20 IST" name="initialize" finished-at="2025-06-09T22:41:21 IST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="addition()[pri:0, instance:testClasses.CalculationTest@6e1d8f9e]" started-at="2025-06-09T22:41:21 IST" name="addition" finished-at="2025-06-09T22:41:34 IST" duration-ms="12992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method signature="divsion()[pri:0, instance:testClasses.CalculationTest@6e1d8f9e]" started-at="2025-06-09T22:41:34 IST" name="divsion" finished-at="2025-06-09T22:41:47 IST" duration-ms="13113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divsion -->
+        <test-method signature="multiplication()[pri:0, instance:testClasses.CalculationTest@6e1d8f9e]" started-at="2025-06-09T22:41:47 IST" name="multiplication" finished-at="2025-06-09T22:42:00 IST" duration-ms="12867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method signature="subtraction()[pri:0, instance:testClasses.CalculationTest@6e1d8f9e]" started-at="2025-06-09T22:42:00 IST" name="subtraction" finished-at="2025-06-09T22:42:13 IST" duration-ms="12854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClasses.CalculationTest@6e1d8f9e]" started-at="2025-06-09T22:42:13 IST" name="tearDown" finished-at="2025-06-09T22:42:14 IST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClasses.CalculationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
